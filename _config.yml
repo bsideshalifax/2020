@@ -14,7 +14,7 @@ title: "BSides Halifax Quarantine Edition"
 email: "info@bsideshalifax.ca"
 description: "BSides is a community-driven framework for building events for and by information security community members."
 baseurl: ""
-url: "https://2020.bsideshalifax.github.io"
+url: "https://bsideshalifax.ca/2020"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-165605284-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -26,7 +26,7 @@ organizerAlternateName: "Halifax BSides"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Cyber Security with passion."
 organizerEmail: "info@bsideshalifax.ca"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://2020.bsideshalifax.github.io"
+organizerLink: "https://bsideshalifax.ca/2020"
 
 # Head
 metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
@@ -35,7 +35,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
+c4sponsorsUrl: "/2020/assets/BSides_HFX_Sponsorship_Kit.pdf"
 
 
 # Navigation
