@@ -1,0 +1,18 @@
+### General ###
+*.lock
+.bundle
+vendor
+
+### Jekyll ###
+_site/
+
+### Sass ###
+.sass-cache
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+### Mac ###
+.DS_Store
