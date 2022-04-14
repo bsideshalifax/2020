@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "BSides Halifax Quarantine Edition"
-email: "info@bsideshalifax.ca"
+email: "info@halifaxbsides.ca"
 description: "BSides is a community-driven framework for building events for and by information security community members."
 baseurl: "https://halifaxbsides.ca/2020"
 url: "https://halifaxbsides.ca/2020"
@@ -24,9 +24,9 @@ siteVerification: "U2vM0e028DKxBzX3zvCNmR2ZQk31oXU5asShWbU3Oqg"
 organizerName: "BSides Halifax"
 organizerAlternateName: "Halifax BSides"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Cyber Security with passion."
-organizerEmail: "info@bsideshalifax.ca"
+organizerEmail: "info@halifaxbsides.ca"
 organizerLogo: "/2020/img/seo/organizer-logo.png"
-organizerLink: "https://bsideshalifax.ca/2020"
+organizerLink: "https://halifaxbsides.ca/2020"
 
 # Head
 metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
